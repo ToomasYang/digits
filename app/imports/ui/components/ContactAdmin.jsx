@@ -15,7 +15,7 @@ class ContactAdmin extends React.Component {
           <Card.Description>{this.props.contact.description}</Card.Description>
         </Card.Content>
         <Card.Content extra>
-          {this.props.contact.owner}
+          Owner: {this.props.contact.owner}
         </Card.Content>
       </Card>
     );
