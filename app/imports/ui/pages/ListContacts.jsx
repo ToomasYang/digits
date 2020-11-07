@@ -64,3 +64,4 @@ export default withTracker(() => {
     ready: subscription.ready(),
   };
 })(ListContacts);
+
