@@ -1,7 +1,11 @@
 <img src="doc/landing-page.png">
 
 # Installation
-To install, clone this repository to your desktop, and change the running directory to app, then run "meteor npm run start"
+To install, clone this repository to your desktop, and change the running directory to app, 
+run
+meteor npm install
+then run
+meteor npm run start
 
 # Add Contacts
 <img src="doc/add-contacts.png">
