@@ -1,8 +1,8 @@
-title: meteor-application-template-react
-description: A template for quickly starting Meteor application development
+title: digits
+description: A website to keep track of your contacts
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
