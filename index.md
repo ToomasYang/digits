@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<img src="doc/landing-page.png">
 
-You can use the [editor on GitHub](https://github.com/ToomasYang/digits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Digits
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Installation
+To install, clone this repository to your desktop, and change the running directory to app, then run "meteor npm run start"
 
-### Markdown
+# Add Contacts
+<img src="doc/add-contacts.png">
+In the add contacts page, you can specify your new contact's name, address, image, and description of the person.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# List Contacts
+<img src="doc/list-contacts.png">
+In the list contacts page, it will list all the contacts that is associated with your account. You can see each contact, and add a note which will be timestamped and tagged along with the contact's card.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ToomasYang/digits/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="doc/list-contacts-admin.png">
+Along with the list contacts page, an admin account can view all contacts within the website, seeing other user's contacts.
