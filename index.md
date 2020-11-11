@@ -3,13 +3,18 @@
 # Installation
 To install, clone this repository to your desktop, and change the running directory to app, 
 run
+
 meteor npm install
+
 then run
+
 meteor npm run start
+
 
 # Add Contacts
 <img src="doc/add-contacts.png">
 In the add contacts page, you can specify your new contact's name, address, image, and description of the person.
+
 
 # List Contacts
 <img src="doc/list-contacts.png">
